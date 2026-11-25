@@ -22,10 +22,6 @@ I'm Guilherme da Rosa, founder of Constamont. I build custom software for US and
 - Tested, documented and ready to grow.
 - Clear communication. No surprises.
 
-## About these repositories
-
-The public projects here are demos built with sample data. They are not client projects. Client work lives in each client's own repositories, following their standards.
-
 ## Contact
 
 - Website: [constamont.com](https://constamont.com)
